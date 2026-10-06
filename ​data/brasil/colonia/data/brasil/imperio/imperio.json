@@ -1,0 +1,211 @@
+[
+  {
+    "id": "br-imperio-01",
+    "bloco": "BLOCO 5",
+    "titulo_bloco": "A INDEPENDÊNCIA E O PRIMEIRO REINADO",
+    "ano_inicio": 1808,
+    "ano_fim": 1831,
+    "periodo": "Brasil Império / Primeiro Reinado",
+    "local": "Rio de Janeiro, Bahia (Salvador) e Província Cisplatina",
+    "sociedades_envolvidas": "Império do Brasil, Reino de Portugal, Elites Agrárias Luso-Brasileiras e Reino Unido",
+    "tema": "Vinda da Família Real, Abertura dos Portos, Processo de Emancipação, Constituição de 1824 e Abdicação",
+    "contexto": "As Guerras Napoleônicas forçaram a transferência da Corte Portuguesa para o Brasil em 1808. A elevação do Brasil a Reino Unido (1815) e a Revolução Liberal do Porto (1820) tensionaram as relações com a metrópole, culminando na Independência em 1822.",
+    "antecedentes": [
+      "1808: Chegada da Família Real de Bragança ao Rio de Janeiro e Abertura dos Portos às Nações Amigas.",
+      "1815: Elevação do Brasil à categoria de Reino Unido a Portugal e Algarves.",
+      "1820: Revolução Liberal do Porto exigindo o retorno de D. João VI e o reescalonamento colonial."
+    ],
+    "causas": {
+      "politicas": "Resistência das elites agrárias brasileiras às tentativas das Cortes de Lisboa de recolonizar o país.",
+      "economicas": "Manutenção da liberdade de comércio estabelecida em 1808 e recusa em voltar ao Exclusivo Metropolitano.",
+      "sociais": "Desejo das elites rurais em conduzir uma independência que preservasse a escravidão e a ordem social latifundiária.",
+      "religiosas": "Subordinação da Igreja ao Estado através do regime do Padroado e Beneplácito.",
+      "culturais": "Formação de uma imprensa local e circulação de periódicos políticos (ex: O Gonçalves Ledo e o Reverbero).",
+      "territoriais": "Preservação da unidade territorial da antiga América Portuguesa frente ao risco de fragmentação.",
+      "tecnologias": "Consolidação da imprensa régia e ampliação da rede de comunicações postais provinciais."
+    },
+    "resumo_card": "A transição do status colonial com a vinda da Corte culminou na Independência em 1822, marcada pelo autoritarismo de D. Pedro I, a outorga da Constituição de 1824 e sua abdicação em 1831.",
+    "desenvolvimento": "A permanência de D. Pedro como Príncipe Regente levou ao 'Dia do Fico' e à proclamação da Independência em 7 de setembro de 1822. A consolidação exigiu guerras de independência na Bahia, Piauí e Maranhão. Em 1823, D. Pedro I dissolveu a Assembleia Constituinte e, em 1824, outorgou a primeira Constituição do país, instituindo o Poder Moderador. O forte centralismo provocou a Confederação do Equador (1824) em Pernambuco. O desgaste com a derrota na Guerra da Cisplatina, o assassinato de Libero Badaró e a crise financeira levaram D. Pedro I a abdicar do trono em 1831.",
+    "personagens": [
+      "D. Pedro I: Primeiro Imperador do Brasil.",
+      "José Bonifácio de Andrada e Silva: 'Patriarca da Independência' e principal articulador político.",
+      "Maria Leopoldina: Imperatriz consorte, peça fundamental na assinatura do decreto de independência.",
+      "Frei Caneca: Líder republicano e religioso da Confederação do Equador, executado em 1825.",
+      "Maria Quitéria: Heroína militar das Guerras de Independência na Bahia."
+    ],
+    "grupos_envolvidos": [
+      "Partido Brasileiro: Elite latifundiária defensora da autonomia e da manutenção do escravismo.",
+      "Partido Português: Comerciantes e burocratas alinhados à recolonização e aos interesses de Lisboa.",
+      "Liberais Radicais: Defensores de maior autonomia provincial, soberania popular e republicanismo."
+    ],
+    "interesses_em_disputa": [
+      "Monarquia Centralizada vs. Federalismo/Republicano.",
+      "Autonomia da Elite Agroexportadora vs. Submissão às Cortes de Lisboa."
+    ],
+    "linha_do_tempo": [
+      {"ano": "1808", "titulo": "Chegada da Corte Portuguesa", "descricao": "Transferência da capital do Império Luso para o Rio de Janeiro."},
+      {"ano": "1822", "titulo": "Proclamação da Independência", "descricao": "Ruptura política oficial com Portugal no 7 de Setembro."},
+      {"ano": "1823", "titulo": "Noite da Agonia", "descricao": "Dissolução da Assembleia Constituinte por tropas de D. Pedro I."},
+      {"ano": "1824", "titulo": "Outorga da Constituição", "descricao": "Instituição da Carta Imperial e do Poder Moderador."},
+      {"ano": "1831", "titulo": "Abdicação de D. Pedro I", "descricao": "Renúncia do imperador em favor de seu filho, D. Pedro de Alcântara."}
+    ],
+    "consequencias_imediatas": [
+      "Reconhecimento internacional da independência pago a preço de endividamento com a Inglaterra.",
+      "Execução de líderes separatistas e manutenção do sistema monárquico na América do Sul."
+    ],
+    "consequencias_longo_prazo": [
+      "Preservação da grande propriedade fundiária e da escravidão como pilares do país.",
+      "Instabilidade política inicial que desembocaria no conturbado Período Regencial."
+    ],
+    "impactos": {
+      "politicos": "Criação de um Estado nacional centralizado sob forma monárquica.",
+      "economicos": "Endividamento externo inicial e dependência financeira e comercial do Reino Unido.",
+      "sociais": "Exclusão da grande maioria da população (escravizados, indígenas e pobres) dos direitos de cidadania.",
+      "culturais": "Construção de uma identidade nacional vinculada à figura da dinastia dos Bragança.",
+      "territoriais": "Manutenção da integridade territorial (com exceção da perda da Cisplatina em 1828).",
+      "ambientais": "Expansão da cafeicultura no Vale do Paraíba com desmatamento da Mata Atlântica."
+    },
+    "continuidade": "Permanência da estrutura agrária, escravista e monocultora colonial.",
+    "rupturas": "Fim do pacto colonial e da subordinação política direta a Lisboa.",
+    "importancia_historica": {
+      "brasil": "Nascimento do Estado brasileiro independente.",
+      "mundo": "Única grande nação de língua portuguesa nas Américas a adotar o regime monárquico pós-independência."
+    }
+  },
+  {
+    "id": "br-imperio-02",
+    "bloco": "BLOCO 6",
+    "titulo_bloco": "O PERÍODO REGENCIAL E AS REVOLTAS PROVINCIAIS",
+    "ano_inicio": 1831,
+    "ano_fim": 1840,
+    "periodo": "Brasil Império / Período Regencial",
+    "local": "Todo o território nacional (destaque para RS, PA, BA e MA)",
+    "sociedades_envolvidas": "Regentes, Elites Provinciais, Camadas Populares, Enslaved People e Forças Militares",
+    "tema": "Ato Adicional de 1834, Descentralização, Guarda Nacional, Farroupilha, Cabanagem, Sabinada, Balaiada e Malês",
+    "contexto": "Com a abdicação de D. Pedro I e a impossibilidade do seu herdeiro assumir devido à menoridade (5 anos), o Brasil foi governado por regentes. O período foi marcado por intensa disputa política entre centralização e autonomia provincial, resultando em rebeliões armadas.",
+    "antecedentes": [
+      "1831: Criação da Regência Tríplice Provisória e posterior Regência Tríplice Permanente.",
+      "1831: Criação da Guarda Nacional para defender os interesses dos grandes proprietários de terras."
+    ],
+    "causas": {
+      "politicas": "Vácuo de poder central e disputa pela autonomia das províncias frente à Corte no Rio de Janeiro.",
+      "economicas": "Pobreza extrema das camadas populares, impostos abusivos e insatisfação com a política fiscal da Corte.",
+      "sociais": "Marginalização de negros, mestiços e sertanejos; descontentamento da classe média urbana e de estancieiros.",
+      "religiosas": "Participação ativa do clero (como o Regente Feijó) nas disputas políticas imperiais.",
+      "culturais": "Circulação de ideias liberais exaltadas, federalistas e republicanas pelas províncias.",
+      "territoriais": "Ameaça de fragmentação do país devido a movimentos separatistas no Sul e no Norte.",
+      "tecnologias": "Dificuldade de transporte e navegação rápida isolando as províncias distantes da capital."
+    },
+    "resumo_card": "A fase de transição marcada pela menoridade de D. Pedro II foi o período mais turbulento do Império, marcado por profundas reformas constitucionais e violentas revoltas provinciais e populares.",
+    "desenvolvimento": "O Ato Adicional de 1834 deu relativa autonomia às províncias ao criar as Assembleias Legislativas Provinciais. Essa descentralização abriu espaço para revoltas regionais: a Cabanagem (Pará), levante popular que chegou ao poder; a Guerra dos Farrapos (Rio Grande do Sul), conflito separatista mais longo da história nacional; a Sabinada (Bahia); a Balaiada (Maranhão); e a Revolta dos Malês (1835), levante urbano de africanos muçulmanos em Salvador. Temendo a desintegração do país e a desordem social, os conservadores promoveram o 'Golpe da Maioridade' em 1840, coroando D. Pedro II aos 14 anos.",
+    "personagens": [
+      "Diogo Antônio Feijó: Padre e Regente Único de tendência liberal progressista.",
+      "Luís Alves de Lima e Silva (Duque de Caxias): Militar responsável por pacificar diversas províncias em revolta.",
+      "Bento Gonçalves: Líder militar e presidente da República Rio-Grandense durante a Farroupilha.",
+      "Eduardo Angelim: Líder cabano que governou a província do Pará."
+    ],
+    "grupos_envolvidos": [
+      "Restauradores (Caramurus): Defendiam o retorno de D. Pedro I ao trono.",
+      "Liberais Moderados (Chimangos): Defensores da ordem latifundiária com autoridade central.",
+      "Liberais Exaltados (Jurujubas): Defensores da autonomia total, federalismo e república."
+    ],
+    "interesses_em_disputa": [
+      "Federalismo Autonomista vs. Centralismo Monárquico.",
+      "Revolução Social/Abolição vs. Preservação da Ordem Escravocrata Latifundiária."
+    ],
+    "linha_do_tempo": [
+      {"ano": "1834", "titulo": "Ato Adicional", "descricao": "Reforma constitucional que criou as Assembleias Provinciais e a Regência Única."},
+      {"ano": "1835", "titulo": "Revolta dos Malês e Início da Farroupilha", "descricao": "Insurreição escrava em Salvador e eclosão da revolta no Rio Grande do Sul."},
+      {"ano": "1835", "titulo": "Cabanagem", "descricao": "Tomada do poder pelos populares em Belém do Pará."},
+      {"ano": "1840", "titulo": "Lei de Interpretação do Ato Adicional", "descricao": "Retorno ao centralismo político promovido pelo Regente Araújo Lima."},
+      {"ano": "1840", "titulo": "Golpe da Maioridade", "descricao": "Antecipação da coroação de D. Pedro II, encerrando a Regência."}
+    ],
+    "consequencias_imediatas": [
+      "Repressão sangrenta aos movimentos populares (especialmente na Cabanagem e Balaiada).",
+      "Consolidação da imagem de Duque de Caxias como o 'Pacificador' do Império."
+    ],
+    "consequencias_longo_prazo": [
+      "Fortalecimento do poder centralizador no Segundo Reinado como garantia da estabilidade.",
+      "Integração definitiva das elites regionais ao projeto parlamentar monárquico."
+    ],
+    "impactos": {
+      "politicos": "Surgimento dos dois grandes partidos do Segundo Reinado: Liberal e Conservador.",
+      "economicos": "Devastação das economias locais das províncias atingidas pelas guerras civis.",
+      "sociais": "Morte de dezenas de milhares de pobres, negros e indígenas nos confrontos.",
+      "culturais": "Formação de mitos regionais de resistência (ex: a mística farroupilha no RS).",
+      "territoriais": "Risco real, contudo evitado, de desmembramento do território brasileiro.",
+      "ambientais": "Destruição de infraestruturas rurais e campos de pastagem durante as campanhas."
+    },
+    "continuidade": "Manutenção inabalável da escravidão pelas elites vitoriosas do conflito regencial.",
+    "rupturas": "Experiência inédita e temporária de descentralização e gestão descentralizada do Estado."
+  },
+  {
+    "id": "br-imperio-03",
+    "bloco": "BLOCO 7",
+    "titulo_bloco": "O SEGUNDO REINADO, O CAFÉ, A GUERRA DO PARAGUAI E A ABOLIÇÃO",
+    "ano_inicio": 1840,
+    "ano_fim": 1889,
+    "periodo": "Brasil Império / Segundo Reinado",
+    "local": "Todo o país (Eixo Rio-SP, Bacia do Prata)",
+    "sociedades_envolvidas": "Império do Brasil, República do Paraguai, Argentina, Uruguai, Barões do Café e Abolicionistas",
+    "tema": "Parlamentarismo às Avessas, Economia Cafeeira, Imigração Europeia, Guerra do Prata/Paraguai, Leis Abolicionistas e Proclamação da República",
+    "contexto": "Período mais longo de estabilidade política, sob o comando pessoal de D. Pedro II. O café tornou-se o motor econômico absoluto do país. A consolidação imperial envolveu a vitória na Guerra do Paraguai, mas o desgaste com a Igreja, Exército e latifundiários pós-Abolição (1888) derrubou o regime.",
+    "antecedentes": [
+      "1840: Coroação adiantada de D. Pedro II (Golpe da Maioridade).",
+      "1850: Extinção definitiva do tráfico transatlântico pela Lei Eusébio de Queirós e promulgação da Lei de Terras."
+    ],
+    "causas": {
+      "politicas": "Uso do Poder Moderador para alternar Liberais e Conservadores no poder ('Parlamentarismo às Avessas').",
+      "economicas": "Expansão avassaladora da cafeicultura no Vale do Paraíba e no Oeste Paulista.",
+      "sociais": "Pressão abolicionista interna e externa, transição do trabalho escravo para o assalariado imigrante.",
+      "religiosas": "Questão Religiosa (1872-1875): Prisão de bispos por desobedecerem ordens imperiais contrárias às determinações papais.",
+      "culturais": "Eclosão do movimento abolicionista, da imprensa republicana e do positivismo entre os militares.",
+      "territoriais": "Disputa pelo livre tráfego na Bacia do Prata culminando na Guerra do Paraguai (1864–1870).",
+      "tecnologias": "Introdução das primeiras ferrovias (Barão de Mauá), telegrafia e iluminação a gás."
+    },
+    "resumo_card": "Fase de auge econômico impulsionada pelo café, modernização infraestrutural e consolidação externa. Contudo, as contradições do escravismo, a Questão Militar e o isolamento da monarquia levaram à Proclamação da República.",
+    "desenvolvimento": "Com a tarifa Alves Branco (1844) e o fim do tráfico (1850), capitais foram redirecionados para a industrialização inicial e ferrovias. O café do Oeste Paulista impulsionou a substituição da escravidão pela imigração europeia (subvenção). No exterior, a Guerra do Paraguai (1864-1870) foi o maior conflito armado da América do Sul, fortalecendo a figura do Exército Brasileiro, que retornou politizado e abolicionista. O abolicionismo ganhou as ruas com Joaquim Nabuco e José do Patrocínio, levando às leis graduais e, finalmente, à Lei Áurea em 13 de maio de 1888, assinada pela Princesa Isabel. Sem o apoio dos 'republicanos de última hora' (ex-senhores de escravos), a Monarquia foi deposta pelo Marechal Deodoro da Fonseca em 15 de novembro de 1889.",
+    "personagens": [
+      "D. Pedro II: Imperador do Brasil por 49 anos.",
+      "Princesa Isabel: Regente do Império que assinou a Lei Áurea.",
+      "Joaquim Nabuco: Intelectual, diplomata e maior porta-voz do abolicionismo.",
+      "José do Patrocínio: Jornalista negro e articulador das redes abolicionistas urbanas.",
+      "Irineu Evangelista de Sousa (Barão de Mauá): Pioneiro da industrialização e infraestrutura.",
+      "Marechal Deodoro da Fonseca: Líder militar da Proclamação da República."
+    ],
+    "grupos_envolvidos": [
+      "Barões do Café: Aristocracia agrária que sustentava o regime imperial.",
+      "Exército Brasileiro: Instituição reorganizada e fortalecida pela Guerra do Paraguai, impregnada pelo positivismo.",
+      "Movimento Abolicionista: Rede heterogênea de intelectuais, negros libertos, estudantes e classe média urbana."
+    ],
+    "interesses_em_disputa": [
+      "Abolição Imediata sem Indenização vs. Manutenção da Propriedade Escrava.",
+      "Monarquia Constitucional Centralizada vs. República Federalista Positivista."
+    ],
+    "linha_do_tempo": [
+      {"ano": "1850", "titulo": "Lei Eusébio de Queirós e Lei de Terras", "descricao": "Fim do tráfico negreiro e privatização das terras devolutas."},
+      {"ano": "1864", "titulo": "Início da Guerra do Paraguai", "descricao": "Maior conflito geopolítico do continente sul-americano."},
+      {"ano": "1871", "titulo": "Lei do Ventre Livre", "descricao": "Declara livres os filhos de mulheres escravizadas nascidos a partir daquela data."},
+      {"ano": "1888", "titulo": "Assinatura da Lei Áurea", "descricao": "Abolição formal e definitiva da escravidão no Brasil sem indenização aos proprietários."},
+      {"ano": "1889", "titulo": "Proclamação da República", "descricao": "Deposição da Monarquia e banimento da Família Imperial."}
+    ],
+    "consequencias_imediatas": [
+      "Fim da escravidão legal no Brasil sem políticas de inclusão ou distribuição de terras para os libertos.",
+      "Queda do regime monárquico e instituição da República dos Marechais."
+    ],
+    "consequencias_longo_prazo": [
+      "Estruturação do racismo estrutural e da desigualdade socioeconômica decorrentes da marginalização dos ex-escravizados.",
+      "Entrada do Exército como ator político central na história do século XX no Brasil."
+    ],
+    "impactos": {
+      "politicos": "Mudança da forma de Governo (de Monarquia Constitucional para República Federalista).",
+      "economicos": "Consolidação de São Paulo e do Sudeste como o polo econômico absoluto do país.",
+      "sociais": "Chegada maciça de milhões de imigrantes europeus (italianos, alemães, espanhóis).",
+      "culturais": "Surgimento do Romantismo e do Realismo na literatura (Machado de Assis) e nas artes.",
+      "territoriais": "Fixação definitiva das fronteiras do Sul e consolidação da Bacia do Prata.",
+      "ambientais": "Destruição quase total da Mata Atlântica paulista e fluminense para plantio de café."
+    },
+    "continuidade": "Prevalência da economia de exportação agrária e exclusão política da maior parte da população.",
+    "rupturas": "Fim da escravidão (sistema de mais de 350 anos) e fim da forma de governo monárquica."
+  }
+]
