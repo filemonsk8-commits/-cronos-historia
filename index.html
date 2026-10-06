@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cronos História</title>
+  <link rel="stylesheet" href="app/styles/style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Cronos História</h1>
+    <p>Linha do Tempo e Blocos Históricos</p>
+    
+    <div class="filtros">
+      <button onclick="filtrar('todos')" class="btn-filtro active">Todos</button>
+      <button onclick="filtrar('brasil')" class="btn-filtro">História do Brasil</button>
+      <button onclick="filtrar('geral')" class="btn-filtro">História Geral</button>
+    </div>
+  </header>
+
+  <main id="app-container">
+    <div id="loading">A carregar blocos históricos...</div>
+    <div id="cards-grid" class="cards-grid"></div>
+  </main>
+
+  <script src="app/components/app.js"></script>
+</body>
+</html>
