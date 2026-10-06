@@ -1,0 +1,279 @@
+[
+  {
+    "id": "br-colonia-01",
+    "bloco": "BLOCO 1",
+    "titulo_bloco": "A CHEGADA DOS PORTUGUESES E O PERÍODO PRÉ-COLONIAL",
+    "ano_inicio": 1500,
+    "ano_fim": 1530,
+    "periodo": "Brasil Colônia / Pré-Colonial",
+    "local": "Litoral brasileiro (Porto Seguro/BA, Cabo Frio/RJ)",
+    "sociedades_envolvidas": "Reino de Portugal, Povos Indígenas (Tupinambás, Tupiniquins, Guarani) e Comerciantes Franceses",
+    "tema": "Grandes Navegações, Contato Intercultural, Escambo, Pau-Brasil e Feitorias",
+    "contexto": "No âmbito do mercantilismo e das Grandes Navegações do século XV, Portugal buscava rotas alternativas para as Índias para monopolizar o comércio de especiarias. A chegada ao Brasil em 1500 insere o território no sistema colonial mercantilista europeu.",
+    "antecedentes": [
+      "1494: Assinatura do Tratado de Tordesilhas entre Portugal e Espanha.",
+      "1498: Chegada de Vasco da Gama à Índia, consolidando o périplo africano."
+    ],
+    "causas": {
+      "politicas": "Necessidade de garantir a posse da terra frente às pretensões espanholas e francesas no Atlântico.",
+      "economicas": "Busca por metais preciosos e exploração de recursos naturais de alto valor comercial.",
+      "sociais": "Expansão da influência da nobreza e da burguesia mercantil portuguesa.",
+      "religiosas": "Expansão da fé católica e conversão de novos povos no contexto do Espírito da Cruzada.",
+      "culturais": "Encontro entre a visão de mundo renascentista europeia e as culturas indígenas ancestrais.",
+      "territoriais": "Mapeamento e marcação de soberania sobre o litoral atlântico sul.",
+      "tecnologias": "Domínio da cartografia, caravelas, astrolábio e técnicas de navegação de alto-mar."
+    },
+    "resumo_card": "Início da presença portuguesa no Brasil, marcado pela exploração do pau-brasil via escambo com os indígenas e pelo estabelecimento de feitorias litorâneas.",
+    "desenvolvimento": "A expedição de Pedro Álvares Cabral aportou em Porto Seguro em 22 de abril de 1500. Nos primeiros 30 anos, a Coroa Portuguesa não demonstrou interesse imediato em povoar o território devido ao lucrativo comércio no Oriente. A presença europeia limitou-se ao envio de expedições exploratórias e guarda-costas. A principal atividade econômica foi a extração do pau-brasil, realizada através do escambo com os povos indígenas, que cortavam e transportavam a madeira em troca de artefatos de metal, tecidos e espelhos.",
+    "personagens": [
+      "Pedro Álvares Cabral: Comandante da esquadra de 1500.",
+      "Pero Vaz de Caminha: Escrivão da frota, autor da Carta a D. Manuel I.",
+      "Gaspar de Lemos e Gonçalo Coelho: Comandantes das expedições exploratórias (1501-1503).",
+      "Martim Afonso de Sousa: Líder da expedição colonizadora de 1530."
+    ],
+    "grupos_envolvidos": [
+      "Navegadores e Comerciantes Portugueses: Agentes da Coroa voltados ao lucro rápido.",
+      "Povos Indígenas (Tronco Tupi): Populações nativas que realizaram o escambo inicial."
+    ],
+    "interesses_em_disputa": [
+      "Monopólio Português vs. Incursões Francesas pelo controle do comércio de pau-brasil.",
+      "Soberania Territorial Europeia vs. Autonomia dos Povos Nativo-Americanos."
+    ],
+    "linha_do_tempo": [
+      {"ano": "1500", "titulo": "Chegada de Cabral", "descricao": "Aporte da esquadra em Porto Seguro e celebração da primeira missa."},
+      {"ano": "1501", "titulo": "Expedição Exploratória", "descricao": "Reconhecimento do litoral por Gaspar de Lemos e nomeação dos acidentes geográficos."},
+      {"ano": "1504", "titulo": "Criação da primeira feitoria", "descricao": "Estabelecimento da feitoria de Cabo Frio para armazenamento do pau-brasil."},
+      {"ano": "1530", "titulo": "Expedição de Martim Afonso de Sousa", "descricao": "Fim do período pré-colonial e início efetivo do povoamento e colonização."}
+    ],
+    "consequencias_imediatas": [
+      "Início do desmatamento da Mata Atlântica para extração da madeira.",
+      "Primeiros impactos biológicos e contágio por epidemias europeias sobre as populações nativas."
+    ],
+    "consequencias_longo_prazo": [
+      "Inserção definitiva do território brasileiro no mercado capitalista mercantil e colonial.",
+      "Substituição gradativa do escambo pela escravização e formação da sociedade colonial."
+    ],
+    "impactos": {
+      "politicos": "Afirmação da soberania portuguesa no Atlântico Sul.",
+      "economicos": "Inserção do pau-brasil na economia mercantil europeia.",
+      "sociais": "Início da desestruturação das sociedades indígenas tradicionais.",
+      "culturais": "Primeiros contatos linguísticos e religiosos entre europeus e nativos.",
+      "territoriais": "Primeiro mapeamento cartográfico do litoral brasileiro.",
+      "ambientais": "Devastação inicial do bioma da Mata Atlântica."
+    },
+    "continuidade": "Permanência de expedições estrangeiras (principalmente francesas) traficando madeira no litoral.",
+    "rupturas": "Fim do isolamento continental das populações nativas das Américas em relação à Europa.",
+    "importancia_historica": {
+      "brasil": "Marco zero da formação histórico-social do Brasil sob a matriz colonial europeia.",
+      "mundo": "Etapa fundamental da expansão marítima europeia e da globalização mercantil."
+    }
+  },
+  {
+    "id": "br-colonia-02",
+    "bloco": "BLOCO 2",
+    "titulo_bloco": "CAPITANIAS HEREDITÁRIAS, GOVERNO-GERAL E A ECONOMIA AÇUCAREIRA",
+    "ano_inicio": 1532,
+    "ano_fim": 1600,
+    "periodo": "Brasil Colônia / Século XVI",
+    "local": "Litoral Nordestino (Pernambuco, Bahia) e Vila de São Vicente",
+    "sociedades_envolvidas": "Coroa Portuguesa, Donatários, Jesuítas, Indígenas e Africanos Escravizados",
+    "tema": "Administração Colonial, Engenhos de Açúcar, Monocultura, Latifúndio e Escravidão",
+    "contexto": "Com a queda nos lucros do comércio das Índias e a constante ameaça de invasões estrangeiras, Portugal decide efetivar a colonização do Brasil montando uma estrutura administrativa e implantando a produção agroindustrial do açúcar.",
+    "antecedentes": [
+      "1530: Expedição de Martim Afonso de Sousa e fundação da Vila de São Vicente (1532).",
+      "1534: Divisão do território brasileiro em 15 faixas de terra (Capitanias Hereditárias)."
+    ],
+    "causas": {
+      "politicas": "Necessidade de povoar a colônia sem custos diretos para os cofres da Coroa Portuguesa.",
+      "economicas": "Alta rentabilidade do açúcar no mercado europeu e solo favorável (massapê) no Nordeste.",
+      "sociais": "Estruturação de uma sociedade patriarcal, rústica, escravocrata e estamental.",
+      "religiosas": "Chegada da Companhia de Jesus (1549) para catequizar indígenas e normatizar a moral dos colonos.",
+      "culturais": "Implantação da matriz cultural ibérica e início da formação do sincretismo cultural.",
+      "territoriais": "Fixação de núcleos urbanos litorâneos e implantação das primeiras vilas.",
+      "tecnologias": "Introdução dos engenhos hidráulicos e a tração animal para moagem da cana."
+    },
+    "resumo_card": "Organização do sistema colonial através do fracasso relativo das Capitanias, criação do Governo-Geral (Salvador) e apogeu do ciclo do açúcar movido a trabalho escravo.",
+    "desenvolvimento": "A Coroa fatiou o litoral em Capitanias Hereditárias entregues a donatários. Diante do fracasso da maioria das capitanias (exceto Pernambuco e São Vicente) por falta de recursos e resistência indígena, D. João III criou o Governo-Geral em 1549, fundando Salvador como a primeira capital. O Nordeste transformou-se no centro econômico da colônia com a expansão dos engenhos de açúcar. A mão de obra, inicialmente indígena, foi progressivamente substituída pelo tráfico transatlântico de africanos escravizados, tornando a escravidão o pilar central da sociedade.",
+    "personagens": [
+      "Tomé de Sousa: Primeiro Governador-Geral, fundador de Salvador.",
+      "Padre Manuel da Nóbrega: Liderança jesuíta responsável pelas missões de catequese.",
+      "Duarte Coelho: Donatário da próspera Capitania de Pernambuco.",
+      "Mem de Sá: Terceiro Governador-Geral, responsável por consolidar a administração colonial."
+    ],
+    "grupos_envolvidos": [
+      "Senhores de Engenho: Aristocracia rural com pleno domínio político e social.",
+      "Africanos Escravizados: Base da força de trabalho sujeita a extrema violência e exploração.",
+      "Jesuítas: Agentes religiosos focados na catequese e no controle moral da colônia."
+    ],
+    "interesses_em_disputa": [
+      "Escravização Indígena: Conflito entre a ambição dos colonos e a oposição dos jesuítas.",
+      "Centralização Monárquica vs. Autonomia dos Donatários locais."
+    ],
+    "linha_do_tempo": [
+      {"ano": "1534", "titulo": "Criação das Capitanias", "descricao": "Divisão do Brasil em faixas de terra administradas pelos capitães donatários."},
+      {"ano": "1549", "titulo": "Instituição do Governo-Geral", "descricao": "Chegada de Tomé de Sousa, fundação de Salvador e chegada dos primeiros jesuítas."},
+      {"ano": "1555", "titulo": "Invasão Francesa no Rio de Janeiro", "descricao": "Fundação da França Antártica na Baía de Guanabara."},
+      {"ano": "1567", "titulo": "Expulsão dos Franceses", "descricao": "Forças de Estácio de Sá e Mem de Sá expulsam os franceses e consolidam o Rio de Janeiro."}
+    ],
+    "consequencias_imediatas": [
+      "Consolidação de Salvador como centro político do Brasil colonial.",
+      "Início do tráfico negreiro transatlântico em larga escala."
+    ],
+    "consequencias_longo_prazo": [
+      "Consolidação da estrutura agrária concentrada (latifúndio) no Brasil contemporâneo.",
+      "Edificação da sociedade brasileira sobre alicerces estruturais de matriz escravocrata."
+    ],
+    "impactos": {
+      "politicos": "Centralização da autoridade metropolitana no território colonial.",
+      "economicos": "Transformação do Brasil no maior produtor mundial de açúcar no século XVI.",
+      "sociais": "Formação de uma estrutura social rigidamente polarizada (senhores vs. escravizados).",
+      "culturais": "Início do processo de catequese e imposição da fé católica.",
+      "territoriais": "Ocupação efetiva da faixa litorânea nordestina.",
+      "ambientais": "Substituição massiva da floresta nativa por campos monocultores de cana-de-açúcar."
+    },
+    "continuidade": "Prevalência do Pacto Colonial (Exclusivo Metropolitano) subordinando a produção local a Portugal.",
+    "rupturas": "Abandono da postura meramente extrativista e início da colonização de povoamento e produção.",
+    "importancia_historica": {
+      "brasil": "Montagem da estrutura socioeconômica primário-exportadora e latifundiária fundacional.",
+      "mundo": "Integração do Brasil nas redes globais do comércio de açúcar e do tráfico transatlântico de escravizados."
+    }
+  },
+  {
+    "id": "br-colonia-03",
+    "bloco": "BLOCO 3",
+    "titulo_bloco": "UNIÃO IBÉRICA, INVASÕES HOLANDESAS E EXPANSÃO TERRITORIAL",
+    "ano_inicio": 1580,
+    "ano_fim": 1694,
+    "periodo": "Brasil Colônia / Século XVII",
+    "local": "Pernambuco (Recife/Olinda), São Paulo e Sertões do Brasil",
+    "sociedades_envolvidas": "Império Espanhol, Império Português, República das Províncias Unidas (Holanda), Bandeirantes e Quilombolas",
+    "tema": "União Ibérica, Brasil Holandês, Bandeirantismo, Entradas, Pecuária e Resistência Negra",
+    "contexto": "Com o desaparecimento do rei D. Sebastião de Portugal, a Coroa Portuguesa foi unificada à Espanhola sob o domínio dos Habsburgo (1580–1640). Isso anulou na prática as fronteiras de Tordesilhas e atraiu inimigos da Espanha para o Brasil, especialmente os holandeses.",
+    "antecedentes": [
+      "1578: Desastre de Alcácer-Quibir e crise de sucessão no Reino de Portugal.",
+      "1580: Filipe II da Espanha assume o trono português, dando início à União Ibérica."
+    ],
+    "causas": {
+      "politicas": "Geopolítica europeia que colocou a Holanda em guerra contra o Império Espanhol.",
+      "economicas": "Embargo espanhol ao comércio açucareiro holandês, motivando a criação da Companhia das Índias Ocidentais (WIC).",
+      "sociais": "Enfraquecimento da fiscalização de fronteiras estimulando a interiorização da população.",
+      "religiosas": "Conflito entre o catolicismo ibérico e o calvinismo trazido pelos holandeses; abrigo da liberdade religiosa no Recife.",
+      "culturais": "Chegada de artistas e cientistas europeus (ex: Albert Eckhout, Frans Post) no governo de Maurício de Nassau.",
+      "territoriais": "Busca por indígenas para escravização e minérios de valor no interior do continente.",
+      "tecnologias": "Uso de técnicas nativas de navegação fluvial pelos bandeirantes e construção de fortes defensivos."
+    },
+    "resumo_card": "O domínio espanhol unificou as coroas, gerou a ocupação holandesa em Pernambuco e estimulou a expansão territorial para o interior através das entradas, bandeiras e tropas de resgate.",
+    "desenvolvimento": "A União Ibérica tornou o Brasil alvo dos holandeses, que invadiram a Bahia (1624) e conquistaram Pernambuco (1630–1654). Sob o governo do conde Maurício de Nassau (1637–1644), o Recife foi modernizado e tornou-se um polo cultural e comercial. Enquanto isso, no planalto paulista, expedições conhecidas como Bandeiras partiam rumo ao interior em busca de indígenas para escravizar e ouro, destruindo missões jesuíticas e expandindo as fronteiras para além de Tordesilhas. Na mesma época, no interior de Alagoas, o Quilombo dos Palmares consolidava-se como o maior símbolo de resistência à escravidão na América do Sul.",
+    "personagens": [
+      "Maurício de Nassau: Administrador holandês responsável pela idade de ouro de Pernambuco.",
+      "Zumbi dos Palmares: Último grande líder militar do Quilombo dos Palmares.",
+      "Domingos Jorge Velho: Bandeirante paulista contratado para destruir o Quilombo dos Palmares.",
+      "João Fernandes Vieira e André Vidal de Negreiros: Lideranças luso-brasileiras na Insurreição Pernambucana."
+    ],
+    "grupos_envolvidos": [
+      "WIC (Holandeses): Comerciantes e militares calvinistas em busca do controle do açúcar.",
+      "Bandeirantes: Aventureiros paulistas mamelucos focados no apresamento e sertanismo.",
+      "Quilombolas de Palmares: Comunidade autônoma de negros libertos, indígenas e pobres."
+    ],
+    "interesses_em_disputa": [
+      "Controle do Comércio Açucareiro Global: WIC Holandesa vs. Coroa Ibérica.",
+      "Soberania sobre o Interior: Jesuítas e Povos Indígenas vs. Bandeirantes escravistas."
+    ],
+    "linha_do_tempo": [
+      {"ano": "1580", "titulo": "Início da União Ibérica", "descricao": "Unificação das Coroas de Portugal e Espanha sob o domínio de Filipe II."},
+      {"ano": "1630", "titulo": "Invasão Holandesa em Pernambuco", "descricao": "A WIC conquista Olinda e Recife, estabelecendo a colônia do Brasil Holandês."},
+      {"ano": "1640", "titulo": "Restauração Portuguesa", "descricao": "Fim da União Ibérica; D. João IV assume o trono e busca expulsar os holandeses."},
+      {"ano": "1654", "titulo": "Capitulação dos Holandeses", "descricao": "Insurreição Pernambucana derrota a WIC e expulsa os holandeses do Nordeste."},
+      {"ano": "1695", "titulo": "Queda de Palmares e Morte de Zumbi", "descricao": "Destruição do Quilombo dos Palmares por tropas paulistas."}
+    ],
+    "consequencias_imediatas": [
+      "Expulsão dos holandeses e concorrência do açúcar produzido por eles nas Antilhas, levando o Nordeste à crise.",
+      "Ultrapassagem definitiva do limite do Tratado de Tordesilhas."
+    ],
+    "consequencias_longo_prazo": [
+      "Desenho dos contornos territoriais do Brasil moderno no interior do continente.",
+      "Consolidação do sentimento de identidade protobrasileira com as Batalhas dos Guararapes."
+    ],
+    "impactos": {
+      "politicos": "Reorganização das fronteiras administrativas imperiais no continente sul-americano.",
+      "economicos": "Entrada da economia do açúcar nordestino em longa decadência comercial.",
+      "sociais": "Fortalecimento do quilombismo como forma de resistência organizada à escravidão.",
+      "culturais": "Registro pioneiro da fauna, flora e tipos humanos brasileiros pela missão artística de Nassau.",
+      "territoriais": "Expansão territorial expressiva em direção à Bacia Amazônica e ao Centro-Oeste.",
+      "ambientais": "Abertura de caminhos e degradação de ecossistemas no interior com a pecuária."
+    },
+    "continuidade": "Manutenção da escravidão africana como pilar produtivo inabalável pós-expulsão dos holandeses.",
+    "rupturas": "Fração e quebra do monopólio açucareiro luso-brasileiro no mercado europeu.",
+    "importancia_historica": {
+      "brasil": "Período decisivo para o alargamento das fronteiras territoriais e consolidação da resistência antirracista.",
+      "mundo": "Episódio central da concorrência entre as potências mercantis marítimas do século XVII."
+    }
+  },
+  {
+    "id": "br-colonia-04",
+    "bloco": "BLOCO 4",
+    "titulo_bloco": "O CICLO DO OURO, A TRANSFERÊNCIA DA CAPITAL E AS REVOLTAS EMANCIPACIONISTAS",
+    "ano_inicio": 1695,
+    "ano_fim": 1808,
+    "periodo": "Brasil Colônia / Século XVIII",
+    "local": "Minas Gerais (Ouro Preto/Mariana), Rio de Janeiro e Salvador",
+    "sociedades_envolvidas": "Coroa Portuguesa, Mineradores, Escravizados, Burocracia Colonial, Elites Intelectuais e Alfaiates",
+    "tema": "Mineração, Fiscalismo (Derrama), Urbanização, Barroco, Iluminismo e Inconfidências",
+    "contexto": "A descoberta de ouro de aluvião no interior de Minas Gerais no final do século XVII transformou a colônia. O eixo socioeconômico deslocou-se do Nordeste para o Centro-Sul, gerando rigor fiscal metropolitano e o surgimento de ideias emancipacionistas influenciadas pelo Iluminismo.",
+    "antecedentes": [
+      "1695: Encontro das primeiras jazidas expressivas de ouro na região de Sabará e Ouro Preto.",
+      "1708: Guerra dos Emboabas entre paulistas (desbravadores) e forasteiros pelo controle das minas."
+    ],
+    "causas": {
+      "politicas": "Aumento da opressão fiscal metropolitana e criação da Intendência das Minas para controlar a extração.",
+      "economicas": "Necessidade de Portugal de arrecadar tributos (Quinto, Finta, Derrama) para sustentar suas dívidas na Europa.",
+      "sociais": "Surgimento de uma sociedade urbana, heterogênea, com presença de profissionais liberais e escravizados de ganho.",
+      "religiosas": "Atuação forte das Irmandades Leigas (ex: Nossa Senhora do Rosário dos Pretos) devido à proibição de ordens religiosas regulares nas minas.",
+      "culturais": "Floração do Barroco Mineiro e difusão dos ideais iluministas e da Independência dos EUA (1776).",
+      "territoriais": "Transferência da capital colonial de Salvador para o Rio de Janeiro (1763) para escoar o ouro.",
+      "tecnologias": "Técnicas de desvio de cursos de rios e mineração subterrânea de aluvião."
+    },
+    "resumo_card": "O apogeu da mineração de ouro e diamantes alterou a dinâmica colonial, gerou a transferência da capital para o Rio de Janeiro e culminou em revoltas como a Inconfidência Mineira e a Conjuração Baiana.",
+    "desenvolvimento": "A corrida do ouro atraiu milhares de pessoas para as Minas Gerais. A Coroa organizou a arrecadação fiscal criando Casas de Fundição e cobrando o Quinto. A opressão e a ameaça constante da Derrama (cobrança forçada de impostos atrasados) atiçaram a elite intelectual de Vila Rica, dando origem à Inconfidência Mineira (1789), de caráter elitista e republicano, que terminou com a execução de Tiradentes. Em 1798, na Bahia, eclodiu a Conjuração Baiana (ou Revolta dos Alfaiates), movimento de caráter popular, abolicionista e republicano. O século encerrou-se com a colônia consciente de suas diferenças e tensões em relação à Metrópole.",
+    "personagens": [
+      "Joaquim José da Silva Xavier (Tiradentes): Alferes e mártir da Inconfidência Mineira.",
+      "Aleijadinho (Antônio Francisco Lisboa): Escultor e arquiteto supremo do Barroco Mineiro.",
+      "Marquês de Pombal: Primeiro-ministro português que transferiu a capital para o Rio de Janeiro e expulsou os jesuítas.",
+      "Lucas Dantas, Manuel Faustino, Luiz Gonzaga e João de Deus: Líderes populares e negros executados na Conjuração Baiana."
+    ],
+    "grupos_envolvidos": [
+      "Elite Mineradora e Intelectual: Camada culta influenciada pelas ideias iluministas europeias.",
+      "Camadas Populares Baianas: Alfaiates, soldados e negros libertos lutando por igualdade e fim da escravidão.",
+      "Burocracia Imperial Portuguesa: Agentes arrecadadores fiéis aos interesses de Lisboa."
+    ],
+    "interesses_em_disputa": [
+      "Autonomia Colonial/Pacto Colonial vs. Manutenção da Dependência do Império Português.",
+      "Abolição da Escravidão (defendida na Bahia) vs. Manutenção da Ordem Escravocrata (desejada em Minas)."
+    ],
+    "linha_do_tempo": [
+      {"ano": "1703", "titulo": "Tratado de Methuen", "descricao": "Acordo dos 'Panos e Vinhos' entre Portugal e Inglaterra, canalizando o ouro brasileiro para cofres britânicos."},
+      {"ano": "1720", "titulo": "Revolta de Vila Rica", "descricao": "Levante liderado por Felipe dos Santos contra a criação das Casas de Fundição."},
+      {"ano": "1763", "titulo": "Mudança da Capital", "descricao": "A sede do Governo-Geral é transferida de Salvador para o Rio de Janeiro."},
+      {"ano": "1789", "titulo": "Inconfidência Mineira", "descricao": "Conspiração republicana em Minas Gerais travada por delação e reprimida pela Coroa."},
+      {"ano": "1798", "titulo": "Conjuração Baiana", "descricao": "Movimento popular em Salvador defendendo a República, o fim da escravidão e o livre comércio."}
+    ],
+    "consequencias_imediatas": [
+      "Execução pública de lideranças (Tiradentes em 1792; líderes alfaiates em 1799) para dissuadir noventa levantes.",
+      "Esgotamento progressivo das jazidas auríferas de aluvião ao longo da segunda metade do século XVIII."
+    ],
+    "consequencias_longo_prazo": [
+      "Articulação das bases ideológicas que levariam à Independência do Brasil em 1822.",
+      "Deslocamento definitivo do centro de gravidade político e econômico para a Região Sudeste."
+    ],
+    "impactos": {
+      "politicos": "Emergência dos primeiros movimentos abertamente emancipacionistas e republicanos.",
+      "economicos": "Integração do mercado interno colonial fornecedor de mantimentos para a região das minas.",
+      "sociais": "Maior mobilidade social urbana em comparação ao ambiente rígido dos engenhos de açúcar.",
+      "culturais": "Apogeu das artes plásticas, arquitetura barroca e literatura arcádica no Brasil.",
+      "territoriais": "Consolidação da ocupação do interior do Brasil e fundação das rotas de tropeiros.",
+      "ambientais": "Poluição de leitos de rios, assoreamento e erosão intensa nas regiões mineradoras."
+    },
+    "continuidade": "Permanência da estrutura de submissão colonial ao pacto metropolitano até o início do século XIX.",
+    "rupturas": "Enfraquecimento da hegemonia do Nordeste açucareiro e surgimento do desejo de ruptura política."
+  }
+]
