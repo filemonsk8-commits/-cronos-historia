@@ -1,0 +1,73 @@
+[
+  {
+    "id": "br-pre-01",
+    "bloco": "BLOCO 0",
+    "titulo_bloco": "O POVOAMENTO DO TERRITÓRIO BRASILEIRO E AS SOCIEDADES PRÉ-CABRALINAS",
+    "ano_inicio": -50000,
+    "ano_fim": 1500,
+    "periodo": "Pré-História do Brasil / Período Pré-Cabralino",
+    "local": "Serra da Capivara (PI), Lagoa Santa (MG), Litoral Brasileiro (Sambaquis) e Bacia Amazônica",
+    "sociedades_envolvidas": "Povos Caçadores-Coletores (Povo de Luzia, Tradição Umbu), Povo dos Sambaquis, Sociedades Complexas Amazônicas (Culturas Marajoara e Tapajônica) e Povos Tupi-Guarani",
+    "tema": "Povoamento da América, Megafauna, Pinturas Rupestres, Sambaquis, Cerâmica Indígena e Manejo Florestal",
+    "contexto": "Antes do contato europeu em 1500, o território que hoje compreende o Brasil era povoado há dezenas de milhares de anos por centenas de sociedades distintas, adaptadas aos diferentes biomas (Caatinga, Cerrado, Mata Atlântica, Pampas e Amazônia) com ricas tradições culturais e tecnológicas.",
+    "antecedentes": [
+      "Migrações paleolíticas pelo Estreito de Bering e/ou rotas transoceânicas pelo Oceano Pacífico.",
+      "Presença da megafauna pleistocênica (preguiças-gigantes, tigres-dentes-de-sabres, mastodontes) no continente sul-americano."
+    ],
+    "causas": {
+      "politicas": "Organização comunitária baseada em laços de parentesco, chefias tribais e alianças interétnicas.",
+      "economicas": "Economia de subsistência baseada na caça, pesca, coleta e, posteriormente, no manejo agrícola (mandioca, milho, abóbora).",
+      "sociais": "Divisão de trabalho por gênero e idade; sociedades igualitárias caçadoras-coletoras coexistindo com cacicados complexos estratificados.",
+      "religiosas": "Sistemas xamânicos, culto aos ancestrais, rituais funerários elaborados e profunda conexão cosmológica com a natureza.",
+      "culturais": "Desenvolvimento de refinadas tradições cerâmicas, arte rupestre expressiva e tradição oral intergeracional.",
+      "territoriais": "Ocupação e domesticação de paisagens, criação da Terra Preta de Índio na Amazônia e redes de trocas continentais.",
+      "tecnologias": "Indústria lítica (artefatos de pedra polida e lascada), arcos, flechas, tecelagem, canoas monóxilas e forno cerâmico."
+    },
+    "resumo_card": "Milênios de história indígena anterior a 1500, marcados pela presença do Povo de Luzia, arte rupestre na Serra da Capivara, construtores de Sambaquis no litoral e civilizações agrícolas complexas na Amazônia.",
+    "desenvolvimento": "A história humana no Brasil inicia-se muito antes de 1500. Sítios como a Serra da Capivara (PI), estudados por Niède Guidon, contestam as teorias tradicionais de povoamento ao apontar presença humana ancestral (hipótese de mais de 40.000 anos). Em Lagoa Santa (MG), o fóssil de 'Luzia' (cerca de 12.000 anos) revelou características morfológicas singulares da primeira leva de povoadores. No litoral, entre 8.000 e 2.000 anos atrás, desenvolveram-se os Sambaquis, imensas montanhas de conchas e restos orgânicos erguidas por povos pescadores-coletores como marcos territoriais e cemitérios. Na Amazônia, floresceram sociedades complexas como a Cultura Marajoara e a Tapajônica (Santarém), capazes de alterar a ecologia da floresta, produzir a 'Terra Preta de Índio' fértil e modelar cerâmicas sofisticadas. Pouco antes da chegada dos portugueses, a expansão do tronco linguístico Tupi-Guarani reconfigurou a demografia do litoral brasileiro.",
+    "personagens": [
+      "Luzia: Nome dado ao fóssil humano mais antigo encontrado na América do Sul (Lagoa Santa/MG).",
+      "Niède Guidon: Arqueóloga responsável pelas pesquisas na Serra da Capivara que revolucionaram as teorias sobre o povoamento americano.",
+      "Pajés e Caciques Ancestrais: Lideranças espirituais e políticas das diversas nações indígenas pré-cabralinas."
+    ],
+    "grupos_envolvidos": [
+      "Caçadores-Coletores do Pleistoceno/Holoceno: Primeiros habitantes adaptados ao ecossistema dos planaltos e cavernas.",
+      "Sambaquianos: Povos sedentários da costa especializados na exploração de recursos marinhos.",
+      "Agricultores e Ceramistas Amazônicos: Sociedades de grande densidade populacional na Bacia Amazônica.",
+      "Povos Tupi e Macro-Jê: Grandes grupos linguísticos em expansão territorial nos séculos que antecederam 1500."
+    ],
+    "interesses_em_disputa": [
+      "Controle de territórios férteis e rotas fluviais entre diferentes nações indígenas.",
+      "Disputa de visões teóricas na arqueologia global sobre a datação e as rotas de povoamento das Américas."
+    ],
+    "linha_do_tempo": [
+      {"ano": "-50000", "titulo": "Evidências Ancestrais no Piauí", "descricao": "Sítio do Boqueirão da Pedra Furada apresenta vestígios de fogueiras e artefatos líticos antigos."},
+      {"ano": "-12000", "titulo": "Povo de Lagoa Santa e Luzia", "descricao": "Vigência de grupos caçadores-coletores em Minas Gerais e fossilização de Luzia."},
+      {"ano": "-6000", "titulo": "Apogeu da Cultura dos Sambaquis", "descricao": "Construção de megastruturas de conchas ao longo da costa sul e sudeste do Brasil."},
+      {"ano": "400", "titulo": "Desenvolvimento da Cerâmica Marajoara", "descricao": "Evolução de sociedades complexas com estratificação social e cerâmica polícroma na Ilha de Marajó."},
+      {"ano": "1000", "titulo": "Expansão Tupi no Litoral", "descricao": "Consolidação dos povos do tronco Tupi ao longo da faixa litorânea atlântica."}
+    ],
+    "consequencias_imediatas": [
+      "Manejo e modificação da biodiversidade da Floresta Amazônica e da Mata Atlântica.",
+      "Desenvolvimento de vasta rede de caminhos continentais (ex: Caminho do Peabiru)."
+    ],
+    "consequencias_longo_prazo": [
+      "Construção da base demográfica, cultural, linguística e agrícola que alimentaria a formação da sociedade brasileira.",
+      "Resistência e sobrevivência das matrizes indígenas frente ao impacto do processo colonial a partir de 1500."
+    ],
+    "impactos": {
+      "politicos": "Estruturação de confederações e redes socio-políticas indígenas autônomas.",
+      "economicos": "Domesticação de plantas fundamentais para a alimentação global (mandioca, amendoim, cacau).",
+      "sociais": "Diversidade étnica e linguística com mais de 1.000 línguas faladas antes da colonização.",
+      "culturais": "Riquíssimo patrimônio de arte rupestre, mitologias e tradições cerâmicas.",
+      "territoriais": "Mapeamento e ocupação efetiva de todos os biomas do atual território brasileiro.",
+      "ambientais": "Criação de solos de alta fertilidade (Terra Preta) e seleção de espécies botânicas úteis."
+    },
+    "continuidade": "Tradições alimentares e conhecimentos medicinais indígenas integrados ao cotidiano brasileiro até hoje.",
+    "rupturas": "Colapso demográfico e cultural catastrófico sofrido por essas sociedades após o contato com as doenças e a violência colonial europeia pós-1500.",
+    "importancia_historica": {
+      "brasil": "Constitui a verdadeira raiz histórica e antropológica da ocupação do território nacional.",
+      "mundo": "Evidencia a capacidade de adaptação humana e desconstrói a visão eurocêntrica de que a América era um 'continente sem história'."
+    }
+  }
+]
