@@ -1,0 +1,71 @@
+[
+  {
+    "id": "geral-mod-01",
+    "bloco": "BLOCO 16",
+    "titulo_bloco": "IDADE MODERNA E CONTEMPORÂNEA: DAS GRANDES NAVEGAÇÕES À ERA GLOBAL",
+    "ano_inicio": 1453,
+    "ano_fim": 2026,
+    "periodo": "Idade Moderna e Idade Contemporânea",
+    "local": "Mundo (Europa, Américas, África, Ásia e Oceania)",
+    "sociedades_envolvidas": "Potências Europeias, Impérios Coloniais, Nações Americanas, Blocos da Guerra Fria e Sociedade Global Contemporânea",
+    "tema": "Renascimento, Expansão Marítima, Reforma Protestante, Iluminismo, Revolução Industrial, Revolução Francesa, Imperialismo, Guerras Mundiais, Guerra Fria e Globalização",
+    "contexto": "Compreende a transição do Feudalismo para o Capitalismo, a expansão europeia pelo globo, o surgimento do pensamento científico/iluminista, as revoluções industriais e burguesas, e os grandes conflitos globais que moldaram o mundo contemporâneo.",
+    "antecedentes": [
+      "1453: Queda de Constantinopla e necessidade de novas rotas comerciais maritimamente.",
+      "Desenvolvimento da imprensa de tipos móveis por Gutenberg e eflorescência do Humanismo."
+    ],
+    "causas": {
+      "politicas": "Surgimento dos Estados Nacionais Absolutistas, Revoluções Burguesas (Inglesa e Francesa), afirmação da Democracia Liberal e confrontos ideológicos (Fascismo, Comunismo, Capitalismo).",
+      "economicas": "Mercantilismo, Primeira e Segunda Revolução Industrial, consolidação do Capitalismo Financeiro, Globalização e Neoliberalismo.",
+      "sociais": "Ascensão da Burguesia, emergência do Proletariado urbano, lutas por direitos civis, feminismo, decolonização e migrações internacionais.",
+      "religiosas": "Reforma Protestante (Lutero, Calvino), Contrarreforma Católica e crescente secularização do Estado.",
+      "culturais": "Renascimento Cultural, Revolução Científica do Século XVII, Iluminismo, Modernismo e a Sociedade da Informação/Digital.",
+      "territoriais": "Colonização das Américas, Partilha da África e da Ásia (Imperialismo) e redesenho das fronteiras após as Guerras Mundiais.",
+      "tecnologias": "Máquina a vapor, eletricidade, motor a combustão, informática, corrida espacial, internet e inteligência artificial."
+    },
+    "resumo_card": "O ciclo da modernidade e contemporaneidade transformou o planeta por meio das navegações maritimamente globais, das revoluções científicas e industriais, do colapso do colonialismo e da construção do mundo globalizado e interconectado.",
+    "desenvolvimento": "A Idade Moderna iniciou-se com o Renascimento e as Grandes Navegações, que conectaram os continentes e estruturaram o sistema colonial nas Américas. A Reforma Protestante quebrou a unidade religiosa europeia. No século XVIII, o Iluminismo inspirou a Revolução Francesa e a Independência dos EUA, enquanto a Revolução Industrial transformou a produção e as relações de trabalho. A Idade Contemporânea foi marcada pela expansão do Imperialismo no século XIX, que culminou nas tragédias da Primeira e Segunda Guerra Mundial. A Guerra Fria dividiu o mundo entre o bloco capitalista (EUA) e socialista (URSS). Após o colapso da União Soviética em 1991, o mundo entrou na era da Globalização acelerada, enfrentando hoje os desafios da transição digital, das crises climáticas e das novas tensões geopolíticas.",
+    "personagens": [
+      "Lutero e Calvino: Líderes da Reforma Protestante.",
+      "Isaac Newton e Galileo Galilei: Expoentes da Revolução Científica.",
+      "Voltaire, Rousseau e Montesquieu: Filósofos do Iluminismo.",
+      "Napoleão Bonaparte: Disseminador dos ideais liberais e das leis burguesas pela Europa.",
+      "Karl Marx: Formulador da crítica ao capitalismo e da teoria socialista.",
+      "Winston Churchill, Franklin D. Roosevelt, Josef Stalin e Adolf Hitler: Lideranças centrais na Segunda Guerra Mundial."
+    ],
+    "grupos_envolvidos": [
+      "Burguesia Industrial e Financeira vs. Classe Trabalhadora/Proletariado.",
+      "Potências Imperialistas vs. Movimentos de Libertação Nacional na África e Ásia.",
+      "Bloco Ocidental (OTAN) vs. Bloco Soviético (Pacto de Varsóvia)."
+    ],
+    "interesses_em_disputa": [
+      "Hegemonia geopolítica e controle sobre matérias-primas e mercados consumidores.",
+      "Democracia Liberal e Liberdades Individuais vs. Modelos Autoritários e Totalitários."
+    ],
+    "linha_do_tempo": [
+      {"ano": "1517", "titulo": "Reforma Protestante", "descricao": "Afixação das 95 Teses por Martinho Lutero em Wittenberg."},
+      {"ano": "1789", "titulo": "Revolução Francesa", "descricao": "Queda da Bastilha e publicação da Declaração dos Direitos do Homem e do Cidadão."},
+      {"ano": "1914-1918", "titulo": "Primeira Guerra Mundial", "descricao": "Conflito global impulsionado disputas imperialistas e alianças militares na Europa."},
+      {"ano": "1939-1945", "titulo": "Segunda Guerra Mundial", "descricao": "Conflito entre Aliados e Eixo, marcado pelo Holocausto e uso das bombas atómicas."},
+      {"ano": "1989-1991", "titulo": "Queda do Muro de Berlim e Fim da URSS", "descricao": "Encerramento da Guerra Fria e início da hegemonia da globalização capitalista."}
+    ],
+    "consequencias_imediatas": [
+      "Criação de organizações internacionais para mediação global (ex: ONU).",
+      "Aceleração sem precedentes da urbanização e do desenvolvimento tecnológico."
+    ],
+    "consequencias_longo_prazo": [
+      "Integração econômica e digital dos mercados em escala planetária.",
+      "Emergência da crise climática global exigindo transições energéticas urgentes."
+    ],
+    "impactos": {
+      "politicos": "Consolidação do Estado de Direito, dos Direitos Humanos e do sufrágio universal.",
+      "economicos": "Estabelecimento do mercado global financeirizado e do consumo de massa.",
+      "sociais": "Urbanização acelerada, diversificação do mercado de trabalho e fortalecimento das lutas por equidade.",
+      "culturais": "Massificação da cultura de comunicação, sociedade em rede e difusão do conhecimento digital.",
+      "territoriais": "Emancipação das colônias das Américas, África e Ásia, definindo o mapa das nações modernas.",
+      "ambientais": "Alterações climáticas globais, perda de biodiversidade e debate internacional sobre sustentabilidade."
+    },
+    "continuidade": "Disputas geopolíticas por hegemonia econômica e tecnológica entre grandes potências.",
+    "rupturas": "Superação do modo de produção artesanal/agrícola tradicional pelo modelo industrial e digital."
+  }
+]
