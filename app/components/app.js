@@ -1,4 +1,3 @@
-// Mapeamento corrigido para os caminhos reais no repositório
 const fontesDeDados = [
   { tipo: 'brasil', url: 'docs/.github/data/brasil/pre-cabralino/pre-cabralino.json' },
   { tipo: 'brasil', url: 'docs/.github/data/brasil/colonia/colonia.json' },
