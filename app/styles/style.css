@@ -1,0 +1,97 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #f4f6f9;
+  color: #333;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  color: #1e293b;
+  font-size: 2.2rem;
+  margin-bottom: 8px;
+}
+
+.filtros {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.btn-filtro {
+  padding: 8px 16px;
+  border: none;
+  background-color: #cbd5e1;
+  color: #1e293b;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn-filtro.active, .btn-filtro:hover {
+  background-color: #2563eb;
+  color: white;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.card {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  border-left: 5px solid #2563eb;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card .bloco-tag {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #2563eb;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.card h2 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  color: #0f172a;
+}
+
+.card .periodo {
+  font-size: 0.9rem;
+  color: #64748b;
+  margin-bottom: 12px;
+}
+
+.card p {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #334155;
+}
+
+#loading {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #64748b;
+}
